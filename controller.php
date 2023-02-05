@@ -114,7 +114,7 @@ function displayWeekWithEvents($date)
         }
         // Vérifie si c'est un mardi pour afficher l'entraînement
         if (date('N', strtotime($i)) == 2) {
-            echo "<p class='cell trainingday'>Entraînement de 18h30 à 20h30</p>";
+            echo "<p class='cell trainingday'>Entraînement de 18h30 à 20h30<img class='punchbutton' src='punchbutton.png'></p>";
         }
         // Vérifie si une date correspond à un jour férié
         if (array_key_exists($dateToCheck, $publicHolidaysArray)) {
