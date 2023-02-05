@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  /* background: linear-gradient(#BB2649, #FFF); */
+  background-repeat: no-repeat;
+  /* background-color: #BB2649; */
+}
+
+table {
+  /* background-image: url('https://studycli.org/wp-content/uploads/2021/11/year-of-the-rabbit-article-feature-image.jpg'); */
+  background-size: auto;
+  background-position: center;
+  margin: 0 auto;
+  width: 40%;
+  border-collapse: collapse;
+  /* border: 2px solid black; */
+  /* ajout d'un cadre noir */
+}
+
+th,
+td {
+  /* border: 1px solid #BB2649; */
+  padding: 8px;
+  text-align: center;
+  height: 20px;
+  /* nouvelle hauteur */
+  border: none;
+}
+
+th {
+  color: #BB2649;
+  background-color: white;
+}
+
+.black {
+  background-color: #282828;
+  color: white;
+}
+
+.orange {
+  background-color: #da481b;
+  color: white;
+}
+
+.green {
+  background-color: #8BC34A;
+  color: white;
+}
+
+.purple {
+  background-color: #BB2649;
+  color: white;
+}
+
+.blue {
+  background-color: #03A9F4;
+  color: white;
+}
+
+.lgbt {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  margin: 0;
+}
+
+.redbg {
+  border: 1px solid red;
+}
+
+form div {
+  display: flex;
+  margin: 0rem 0rem 1rem 0;
+  justify-content: center;
+  padding-top: 1rem;
+  align-items: center;
+}
+
+form select {
+  width: 7rem;
+  height: 1.5rem;
+  text-align: center;
+}
+
+#margin-right {
+  margin-right: 2rem;
+}
+
+form input {
+  display: block;
+  margin: 0 auto 2rem auto;
+  border: none;
+}
+
+.logo {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 300px;
+}
+
+.container {
+  background-size: auto;
+  background-position: center;
+  margin: 0 auto;
+  width: 40%;
+  border-collapse: collapse;
+  background-color: white;
+  height: 100vh;
+}
+
+.test {
+  background-image: url('https://png.pngtree.com/element_our/png/20181019/send-button-icon-design-vector-png_136408.jpg');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 50px;
+  width: 50px;
+}
+
+.test:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+/* .margin-right {
+  margin-right: 2rem;
+} */
+
+form a {
+  text-decoration: none;
+  color: black;
+}
+
+.day {
+  height: 3rem;
+  background-color: #000000;
+  color: white;
+}
+
+.cell {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8rem;
+  background-color: rgb(219, 219, 14);
+}
+
+.bdaycell {
+  flex-direction: column;
+}
+.table {
+  width: 85% !important;
+}
+
+.trainingday {
+  flex-direction: column;
+}
+
+.punchbutton {
+width: 6rem;
+
+}
+p {
+  margin: 0 !important;
+}

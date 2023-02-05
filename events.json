@@ -1,0 +1,54 @@
+{
+    "birthdays": [
+        {
+            "date": "1990-01-22",
+            "lastname": "Doe",
+            "firstname": "John"
+        },
+        {
+            "date": "2013-01-20",
+            "lastname": "Toe",
+            "firstname": "Jane"
+        },
+        {
+            "date": "1978-01-01",
+            "lastname": "Koe",
+            "firstname": "Mane"
+        },
+        {
+            "date": "1990-01-21",
+            "lastname": "Koe",
+            "firstname": "Mane"
+        }
+    ],
+    "otherEvents": [
+        {
+            "date": "2023-01-21",
+            "hour": "20:00",
+            "adress": "1 rue de la paix, 75000 Paris",
+            "name": "Muay Thai Championship",
+            "comment": "Prenez vos places rapidement ! Billetterie sur place et en ligne. http://www.blablablabla.com"
+        },
+        {
+            "date": "2023-01-21",
+            "hour": "18:00",
+            "adress": "1 rue de la paix, 75000 Paris",
+            "name": "Kickboxing Championship",
+            "comment": "Prenez vos places rapidement ! Billetterie sur place et en ligne. http://www.blablablabla.com"
+        },
+        {
+            "date": "2023-01-21",
+            "hour": "22:00",
+            "adress": "30 rue de la paix, 76000 Le Havre",
+            "name": "Boxe Anglaise",
+            "comment": "Prenez vos places rapidement ! Billetterie sur place et en ligne. http://www.blablablabla.com"
+        },
+        {
+            "date": "2023-01-20",
+            "hour": "22:00",
+            "adress": "30 rue de la paix, 76000 Le Havre",
+            "name": "Championnat de Boxe Française",
+            "comment": "Prenez vos places rapidement ! Billetterie sur place et en ligne. http://www.blablablabla.com"
+        }
+    ]
+}
